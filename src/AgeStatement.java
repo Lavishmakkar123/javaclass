@@ -8,7 +8,7 @@ public class AgeStatement {
         if (age > 18) {
             System.out.println("Congrats, you are eligible for driving");
         } else {
-            System.out.println("Oops, you are not eligible for driving");
+            System.out.println("Oops, you will never be eligible for driving");
         }
     }
 }
